@@ -1,12 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int myNum = 5;
-        myNum = "Hello";
-
-        String myText = "Hi";
-        myText = 123;
-
-        System.out.println(myNum);
-        System.out.println(myText);
+//        final int MINUTES_PER_HOUR = 60;
+//        final int BIRTHYEAR = 1980;
+//
+//        System.out.println(MINUTES_PER_HOUR);
+//        System.out.println(BIRTHYEAR);
     }
 }
