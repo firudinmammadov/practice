@@ -1,30 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-//        String name = "John";
-//        System.out.println(name);
+        int myNum = 5;
+        myNum = "Hello";
 
-//        int myNum = 15;
-//        System.out.println(myNum);
+        String myText = "Hi";
+        myText = 123;
 
-//        int myNum;
-//        myNum = 15;
-//        System.out.println(myNum);
-
-//        int myNum = 15;
-//        myNum = 20;
-//        System.out.println(myNum);
-
-//        final int myNum = 15;
-//        myNum = 20;
-//        System.out.println(myNum);
-
-//        char myLetter = 'D';
-//        System.out.println(myLetter);
-
-//        boolean myBool = true;
-//        System.out.println(myBool);
-
-//        String myText = "Hello";
-//        System.out.println(myText);
+        System.out.println(myNum);
+        System.out.println(myText);
     }
 }
